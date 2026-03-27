@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ## Bước 3. Kiểm tra môi trường
 ```bash
-python src/env_check.py
+python check_env.py
 ```
 
 ## Bước 4. Chạy smoke-test pipeline
