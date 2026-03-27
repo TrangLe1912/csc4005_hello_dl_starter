@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+csc4005_env/
+.ipynb_checkpoints/
+.DS_Store
+outputs/checkpoints/*.pt
